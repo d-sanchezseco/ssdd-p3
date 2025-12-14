@@ -136,11 +136,6 @@ entrega-3/
 - 🧪 Suite completa de tests comparativos
 - 📈 Benchmarks de rendimiento
 
-## 👥 Autores
 
-Proyecto desarrollado para la asignatura de Sistemas Distribuidos.
-
-## 📄 Licencia
-
-Este proyecto es de uso académico.
-
+## 📄 Código
+https://github.com/d-sanchezseco/ssdd-p3
